@@ -4,7 +4,7 @@
 <img width="400" alt="youtube-multimodal3" src="https://github.com/benitomartin/scale-gke-qdrant-llama/assets/116911431/4048eb35-9505-4833-bdae-e4b6e60a5548">
 </p>
 
-This repository contains a notebook with multimodal system using images as frames from YouTube videos, LlamaIndex framework, Qdrant as a vector database, and Gemini as embedding and llm model. 
+This repository contains a notebook with a multimodal system using images as frames from YouTube videos, LlamaIndex framework, Qdrant as a vector database, and Gemini as embedding and llm model. 
 
 Main Steps
 
